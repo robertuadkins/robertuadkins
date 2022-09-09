@@ -1,3 +1,5 @@
+### Hi there 👋
+
 I am **Robert Adkins**, a seasoned software developer with 8+ years experience. I love developing maintainable and highly scalable web solutions.
 
 ### Contact
@@ -34,10 +36,10 @@ I am **Robert Adkins**, a seasoned software developer with 8+ years experience. 
     <tr>
         <td>
           <img width="400px" align="center" 
-               src="https://github-readme-stats.vercel.app/api/top-langs/?robertuadkins=louiswlynch&hide=ruby,makefile,vhdl,c,qmake,python,css&langs_count=6&layout=compact&theme=dracula" />
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertuadkins&hide=ruby,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
       </td>
       <td>
-          <img width="470px" align="center" src="https://github-readme-stats.vercel.app/api?robertuadkins=louiswlynch&show_icons=true&count_private=true&theme=dracula" />
+          <img width="470px" align="center" src="https://github-readme-stats.vercel.app/api?username=robertuadkins&show_icons=true&count_private=true&theme=dracula" />
       </td>
     </tr>   
   </table>
