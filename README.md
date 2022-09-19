@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am **Robert Adkins**, a seasoned software developer with 8+ years experience. I love developing maintainable and highly scalable web solutions.
+I am **Samuel Koller**, a seasoned software developer with 8+ years experience. I love developing maintainable and highly scalable web solutions.
 
 ### Contact
 
-- 📫 mail: robertuadkins@gmail.com
+- 📫 mail: samuelkoller97@gmail.com
 
 ## Technologies
 <p aligh="center">
