@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Samuel Koller**, a seasoned software developer with 8+ years experience. I love developing maintainable and highly scalable web solutions.
+I am **Samuel Koller**, a seasoned software developer with 8+ years experience. I love developing maintainable and highly scalable web & mobile solutions.
 
 ### Contact
 
